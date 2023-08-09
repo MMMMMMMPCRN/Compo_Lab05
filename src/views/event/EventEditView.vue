@@ -37,7 +37,7 @@ function edit() {
 
 <template>
     <p>Edit the event here</p>
-    <button @click="edit">Update</button>
+    <button @click="edit">Register Me</button>
 </template>
 
 
